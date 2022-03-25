@@ -1,0 +1,89 @@
+
+.col-bar-one{
+    width: 50px;
+    height: 700px;
+    background-color: rgb(216, 66, 12);
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.col-bar-two{
+    width: 50px;
+    height: 700px;
+    background-color: rgb(216, 66, 12);
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.col-bar-three{
+    width: 50px;
+    height: 700px;
+    background-color: rgb(216, 66, 12);
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.vertical-box{
+    text-align: left;
+    position: absolute;
+    height: 100px;
+    width: 20%;    
+    transform: rotate(270deg);
+}
+
+.vertical-text{
+    padding-top: 130px;
+    font-size: 5px;
+}
+
+.header-block{
+    margin-top: 200px;
+}
+
+.title{
+    height: 45px;
+    letter-spacing: 1px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.description{
+    padding-left: 3px;
+    width: 150px;
+    line-height: 10px;
+    font-size: xx-small;
+}
+
+.footer-block{
+    margin-top: 383px;
+}
+
+.flexbox{
+    height: 30px;
+    padding: 0 0 0 0;
+    display: flex; 
+    justify-content: space-between;
+}
+
+#date{
+    font-weight: 700;
+    max-width: fit-content;
+    flex-basis: 49.5%;
+}
+
+#time{
+    font-weight: 700;
+    max-width: fit-content;
+    flex-basis: 49.5%;
+}
+
+#small-print{
+    width: 21%;
+    font-size: 6px;
+}
+
+mark.red {
+    padding: 0 0 0 0;
+    color: rgb(216, 66, 12);
+    background: none;
+}
