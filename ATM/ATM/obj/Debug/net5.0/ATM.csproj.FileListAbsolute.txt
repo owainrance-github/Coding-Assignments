@@ -1,0 +1,15 @@
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ATM.deps.json
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ATM.runtimeconfig.json
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ATM.runtimeconfig.dev.json
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ATM.dll
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ref/ATM.dll
+/Users/owainrance/Documents/Projects/ATM/ATM/bin/Debug/net5.0/ATM.pdb
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.csproj.AssemblyReference.cache
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.AssemblyInfoInputs.cache
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.AssemblyInfo.cs
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.csproj.CoreCompileInputs.cache
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.dll
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ref/ATM.dll
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.pdb
+/Users/owainrance/Documents/Projects/ATM/ATM/obj/Debug/net5.0/ATM.genruntimeconfig.cache
